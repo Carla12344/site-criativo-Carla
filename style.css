@@ -1,4 +1,17 @@
-header{
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+.cabecalho{
   background-color: rgb(237, 237, 185);
 color: rgb(23, 3, 3);
+display: flex;
+justify-content:space-around;
+align-items: center;
+padding: 24px;
+}
+.cabecalho-imagem{
+  width: 30%;
 }
