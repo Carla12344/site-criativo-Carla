@@ -40,7 +40,11 @@
   width: 35%;
 }
 
-.escola-titulo{
+.escola-titulo {
   font-size: 120%;
   padding: 20px 0;
+}
+
+.estudante-imagem {
+  width: 15%;
 }
