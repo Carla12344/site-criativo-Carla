@@ -46,7 +46,7 @@
 }
 
 .estudante-imagem {
-  width: 15%;
+  width: 40%;
 }
 
 .estudante-icone {
@@ -58,7 +58,18 @@
   padding: 20px 20px;
 }
 
-.estudantes{
-
-
+.estudantes {
+  background-color: #FAFDD7;
 }
+
+.estudante-titulo{
+text-align: center;
+padding: 30px 0;
+font-size: 32px;
+color: black;
+}
+.estudante-todos{
+display: grid;
+grid-template-columns: 25% 25% 25% 25%;
+}
+
