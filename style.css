@@ -73,3 +73,12 @@ display: grid;
 grid-template-columns: 25% 25% 25% 25%;
 }
 
+.rodape {
+  background-color: black;
+}
+
+.rodape-texto{
+  color: white;
+  font-size: 32px;
+  padding: 24px;
+}
